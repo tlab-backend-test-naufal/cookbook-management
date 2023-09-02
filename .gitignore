@@ -1,0 +1,9 @@
+.idea
+.env
+tmp
+coverage.out
+bin
+.vscode
+generated/
+vendor/
+dev/
